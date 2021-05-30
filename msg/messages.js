@@ -178,6 +178,7 @@ Blockly.Msg.MOTION_ALIGNSCENE_TOPLEFT = 'top-left';
 Blockly.Msg.MOTION_ALIGNSCENE_TOPRIGHT = 'top-right';
 Blockly.Msg.MOTION_XSCROLL = 'x scroll';
 Blockly.Msg.MOTION_YSCROLL = 'y scroll';
+Blockly.Msg.MOTION_MOVE100STEPS = 'move 100 steps';
 Blockly.Msg.MOTION_STAGE_SELECTED = 'Stage selected: no motion blocks';
 
 // Operators blocks
